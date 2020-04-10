@@ -1,6 +1,6 @@
 
 <?php
-$recepient = "s.chiglintsev@mail.ru";
+$recepient = "mail@mail.ru";
 $sitename = "Перегородки в стиле ЛОФТ";
 $pagetitle = "Subject";
 
