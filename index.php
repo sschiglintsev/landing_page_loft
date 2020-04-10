@@ -240,8 +240,8 @@
                     <span class="fab fa-vk"></span>
                 </a>
                 <p></p>
-                <p>8 917 771 70 37</p>
-                <p>s.chiglintsev@mail.ru</p>
+                <p>tel</p>
+                <p>mail@mail.ru</p>
             </div>
         </div>
     </div>
